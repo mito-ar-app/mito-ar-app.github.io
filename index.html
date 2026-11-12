@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="野外で見つけた昆虫を、撮影・図鑑・実寸大ARで観察できるアプリ。">
+  <meta name="theme-color" content="#f7f6ee">
+  <title>ARむしめがね</title>
+  <link rel="icon" href="assets/icon.png" type="image/png">
+  <link rel="stylesheet" href="assets/site.css">
+  <script src="assets/hero.js" defer></script>
+  
+</head>
+<body>
+<a class="skip" href="#main">本文へ移動</a>
+<header class="site-header">
+  <div class="wrap header-inner">
+    <a class="brand" href="index.html"><img src="assets/icon.png" alt="" width="40" height="40">ARむしめがね</a>
+    <nav aria-label="メインメニュー">
+      <a href="privacy/">プライバシー・利用規約</a>
+    </nav>
+  </div>
+</header>
+<main id="main">
+  <section class="wrap hero" aria-labelledby="home-title">
+    <div class="hero-orbit" aria-hidden="true"></div>
+    <div class="hero-copy">
+      <p class="eyebrow"><span aria-hidden="true"></span> DISCOVER THE LITTLE WORLD</p>
+      <h1 id="home-title">見つけた虫を、<br>もっと近くで。</h1>
+      <p class="intro">野外で出会った昆虫を撮影して、図鑑に記録。対応する昆虫は、実寸大の3DモデルをARでいろいろな角度から観察できます。</p>
+      <div class="hero-actions">
+        <a class="button" href="privacy/">データの取り扱い <span aria-hidden="true">→</span></a>
+      </div>
+    </div>
+    <figure class="hero-media">
+      <img src="assets/ar-observation.webp" alt="机に置いたマーカーの上に、カブトムシの3Dモデルが浮かぶAR観察のイメージ" fetchpriority="high">
+      <div class="slide-progress" aria-hidden="true"><div class="slide-progress-fill"></div></div>
+      <figcaption><span aria-hidden="true"></span> AR観察のイメージ <span class="media-number">01 / 02</span></figcaption>
+    </figure>
+  </section>
+
+  <section class="field-guide" aria-labelledby="guide-title">
+    <div class="wrap">
+      <h2 id="guide-title">撮影から再観察まで</h2>
+      <ol class="steps">
+        <li><h3>撮影する</h3><p>見つけた昆虫をカメラで撮影します。</p></li>
+        <li><h3>図鑑に記録する</h3><p>AIが示した候補から昆虫を選び、写真と一緒に記録します。</p></li>
+        <li><h3>ARで観察する</h3><p>対応する昆虫の3Dモデルを表示して、大きさや形を確かめます。</p></li>
+      </ol>
+    </div>
+  </section>
+</main>
+<footer class="site-footer">
+  <div class="wrap footer-inner">
+    <a class="brand" href="index.html">ARむしめがね</a>
+  </div>
+</footer>
+<script>
+  if (location.protocol === 'file:') {
+    document.querySelectorAll('a[href$="privacy/"]').forEach((link) => {
+      link.setAttribute('href', link.getAttribute('href') + 'index.html');
+    });
+  }
+</script>
+</body>
+</html>
