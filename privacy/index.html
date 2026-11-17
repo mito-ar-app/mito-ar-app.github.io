@@ -9,18 +9,37 @@
   <title>プライバシー・利用規約 | ARむしめがね</title>
   <link rel="icon" href="../assets/icon.png" type="image/png">
   <link rel="stylesheet" href="../assets/site.css">
+  <script src="../assets/nav.js" defer></script>
   
 </head>
 <body>
 <a class="skip" href="#main">本文へ移動</a>
+<!-- site-header:start -->
 <header class="site-header">
   <div class="wrap header-inner">
-    <a class="brand" href="../index.html"><img class="logotype" src="../assets/logotype.webp" alt="ARむしめがね" width="602" height="144"></a>
-    <nav aria-label="メインメニュー">
-      <a href="../privacy/" aria-current="page">プライバシー・利用規約</a>
+    <a class="brand" href="../"><img class="logotype" src="../assets/logotype.webp" alt="ARむしめがね" width="602" height="144"></a>
+    <button class="nav-toggle" type="button" aria-label="メニューを開く" aria-expanded="false" aria-controls="site-nav" data-nav-toggle>
+      <svg width="24" height="24" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16" fill="none" stroke="currentColor" stroke-width="2.25"></path></svg>
+    </button>
+    <nav class="site-nav" id="site-nav" aria-label="メインメニュー">
+      <div class="site-nav-head">
+        <p class="site-nav-title">メニュー</p>
+        <button class="nav-close" type="button" aria-label="メニューを閉じる" data-nav-close>
+          <svg width="24" height="24" viewBox="0 0 24 24" aria-hidden="true"><path d="m5 5 14 14M19 5 5 19" fill="none" stroke="currentColor" stroke-width="2.25"></path></svg>
+        </button>
+      </div>
+      <ul>
+        <li><a href="../">ホーム</a></li>
+        <li><a href="../app/">アプリについて</a></li>
+        <li><a href="../catalog/">昆虫一覧</a></li>
+        <li><a href="../catalog/about/">この図鑑について</a></li>
+        <li><a href="../privacy/" aria-current="page">プライバシー・利用規約</a></li>
+      </ul>
     </nav>
   </div>
 </header>
+<div class="nav-scrim" data-nav-scrim></div>
+<!-- site-header:end -->
 <main id="main" class="wrap document privacy">
   <div class="document-heading">
     <a class="back" href="../index.html"><span aria-hidden="true">←</span> トップページ</a>
@@ -57,17 +76,12 @@
     <section><h2>お問い合わせ</h2><p>本規約についてのご質問は、サービス提供者までご連絡ください。</p><p><a href="mailto:samplue1155@gmail.com">samplue1155@gmail.com</a></p></section>
   </div>
 </main>
+<!-- site-footer:start -->
 <footer class="site-footer">
   <div class="wrap footer-inner">
-    <a class="brand" href="../index.html"><img class="logotype" src="../assets/logotype.webp" alt="ARむしめがね" width="602" height="144"></a>
+    <a class="brand" href="../"><img class="logotype" src="../assets/logotype.webp" alt="ARむしめがね" width="602" height="144"></a>
   </div>
 </footer>
-<script>
-  if (location.protocol === 'file:') {
-    document.querySelectorAll('a[href$="privacy/"]').forEach((link) => {
-      link.setAttribute('href', link.getAttribute('href') + 'index.html');
-    });
-  }
-</script>
+<!-- site-footer:end -->
 </body>
 </html>
