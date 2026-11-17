@@ -1,0 +1,2389 @@
+{
+  "sourceSchemaVersion": 1,
+  "sourceCatalogVersion": "2026-10-15.2",
+  "cardImageWidth": 480,
+  "detailImageWidth": 960,
+  "insects": [
+    {
+      "id": "lamprima-aurata",
+      "name": "アウラタキンイロクワガタ",
+      "scientificName": "Lamprima aurata",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "オーストラリアにすむ、金属のような光沢が美しいクワガタです。緑や金色など、光の当たり方で体の色の見え方が変わります。成虫は植物の汁を利用します。黒や茶色のクワガタと比べると、色の多様さが分かります。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": "2026-09-15",
+      "image": {
+        "card": "assets/catalog/images/lamprima-aurata-card.webp",
+        "detail": "assets/catalog/images/lamprima-aurata-detail.webp",
+        "credit": "Damo O",
+        "license": "CC0-1.0",
+        "sourceUrl": "https://www.inaturalist.org/photos/105707537"
+      }
+    },
+    {
+      "id": "graphium-sarpedon",
+      "name": "アオスジアゲハ",
+      "scientificName": "Graphium sarpedon",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "黒いはねに、青緑色の帯が走るチョウです。すばやく飛び、公園や街路樹の周りでも見られます。花の蜜を吸うほか、地面で水を飲むこともあります。幼虫はクスノキなどの葉を食べ、身近な緑とつながっています。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/graphium-sarpedon-card.webp",
+        "detail": "assets/catalog/images/graphium-sarpedon-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "brachydiplax-chalybea",
+      "name": "アオビタイトンボ",
+      "scientificName": "Brachydiplax chalybea",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "暖かい地方の池などで見られる、小型のトンボです。成熟したオスは青白い色になり、額の青い光沢も特徴です。水辺の枝や草にとまっている姿が見られます。体だけでなく、顔の色やはねの付け根にも注目できます。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/brachydiplax-chalybea-card.webp",
+        "detail": "assets/catalog/images/brachydiplax-chalybea-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "dorcus-rubrofemoratus",
+      "name": "アカアシクワガタ",
+      "scientificName": "Dorcus rubrofemoratus",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "脚の付け根に近い部分が赤茶色になるクワガタです。やや涼しい山の林で見られ、成虫は樹液をなめます。黒っぽい体と赤い脚の組み合わせが特徴です。上からだけでなく、横や下から見ると名前の由来が分かります。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/dorcus-rubrofemoratus-card.webp",
+        "detail": "assets/catalog/images/dorcus-rubrofemoratus-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "vanessa-indica",
+      "name": "アカタテハ",
+      "scientificName": "Vanessa indica",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "黒っぽいはねに、赤みの強いオレンジ色の模様があるチョウです。花の蜜のほか、樹液や熟した果実に集まることもあります。幼虫はカラムシなどの葉を食べます。はねを閉じると、裏の地味な模様が見えて印象が変わります。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/vanessa-indica-card.webp",
+        "detail": "assets/catalog/images/vanessa-indica-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "chilocorus-rubidus",
+      "name": "アカホシテントウ",
+      "scientificName": "Chilocorus rubidus",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "黒い背中に、赤い斑点が二つあるテントウムシです。ヒメアカホシテントウより大きめで、赤い部分は少しぼんやり見えます。成虫も幼虫もカイガラムシを食べます。木の枝や葉の上で、ゆっくり獲物を探します。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/chilocorus-rubidus-card.webp",
+        "detail": "assets/catalog/images/chilocorus-rubidus-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "graptopsaltria-nigrofuscata",
+      "name": "アブラゼミ",
+      "scientificName": "Graptopsaltria nigrofuscata",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "茶色く透けにくいはねを持つ、身近なセミです。夏の公園や雑木林で、オスがじりじりとした声を響かせます。成虫は木の幹に口を差し込み、汁を吸います。木の皮に似た色のため、鳴き声を頼りに探せます。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/graptopsaltria-nigrofuscata-card.webp",
+        "detail": "assets/catalog/images/graptopsaltria-nigrofuscata-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "trilophidia-japonica",
+      "name": "イボバッタ",
+      "scientificName": "Trilophidia japonica",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "茶色いまだら模様が地面によくなじむ、小さめのバッタです。胸の背中に、いぼのような突起があるのが名前の由来です。草のまばらな地面などで見られます。近くで観察すると、体の表面の凹凸もよく分かります。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/trilophidia-japonica-card.webp",
+        "detail": "assets/catalog/images/trilophidia-japonica-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "mantis-religiosa",
+      "name": "ウスバカマキリ",
+      "scientificName": "Mantis religiosa",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "淡い緑や茶色の体をした、草地にすむカマキリです。鎌のような前脚の付け根に、黒い模様があるのが特徴です。草にとまって獲物を待ち、近づいた昆虫を素早く捕まえます。河原などの開けた場所で見られます。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/mantis-religiosa-card.webp",
+        "detail": "assets/catalog/images/mantis-religiosa-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "parnassius-eversmanni",
+      "name": "ウスバキチョウ",
+      "scientificName": "Parnassius eversmanni",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "日本では北海道の高い山で見られる、淡い黄色のチョウです。短い夏の間に現れ、高山の花を訪れます。はねの黒い模様や、毛に覆われた体が特徴です。山の厳しい環境で暮らす、高山の昆虫の一つです。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/parnassius-eversmanni-card.webp",
+        "detail": "assets/catalog/images/parnassius-eversmanni-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "pantala-flavescens",
+      "name": "ウスバキトンボ",
+      "scientificName": "Pantala flavescens",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "黄褐色の体を持ち、田んぼや草地の上を群れで飛ぶこともあるトンボです。長い距離を移動する力があり、広い地域で見られます。幼虫は水中で育ちます。赤とんぼに似ていますが、成熟しても鮮やかな赤にはなりません。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/pantala-flavescens-card.webp",
+        "detail": "assets/catalog/images/pantala-flavescens-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "parnassius-citrinarius",
+      "name": "ウスバシロチョウ",
+      "scientificName": "Parnassius citrinarius",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "白く透けるようなはねと、毛の多い体を持つチョウです。名前にシロチョウとありますが、アゲハチョウの仲間です。春の終わりごろ、林の周りで花の蜜を吸います。幼虫はムラサキケマンなどを食べて育ちます。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/parnassius-citrinarius-card.webp",
+        "detail": "assets/catalog/images/parnassius-citrinarius-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "anatis-halonis",
+      "name": "ウンモンテントウ",
+      "scientificName": "Anatis halonis",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "茶色っぽい背中に、白い縁の付いた黒い模様があるテントウムシです。胸にも白と黒の模様があり、ほかのテントウムシとは違う印象です。夏の山地などで見られます。雲のように広がる模様を見比べてみましょう。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/anatis-halonis-card.webp",
+        "detail": "assets/catalog/images/anatis-halonis-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "auritibicen-japonicus",
+      "name": "エゾゼミ",
+      "scientificName": "Auritibicen japonicus",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "山地などの林で、夏に声を響かせるセミです。黒っぽい体に黄色やオレンジ色の模様があり、透明なはねを持ちます。オスは木にとまって、じりじりと続く声で鳴きます。名前に反して、北海道以外にも分布しています。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/auritibicen-japonicus-card.webp",
+        "detail": "assets/catalog/images/auritibicen-japonicus-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "terpnosia-nigricosta",
+      "name": "エゾハルゼミ",
+      "scientificName": "Terpnosia nigricosta",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "春の終わりから初夏に、山の林で声を響かせるセミです。透明なはねを持ち、体には緑や茶色の部分があります。多くのセミより早い時期に現れます。夏本番のセミとの出会いに先立って、森の季節を知らせる仲間です。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/terpnosia-nigricosta-card.webp",
+        "detail": "assets/catalog/images/terpnosia-nigricosta-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "teleogryllus-emma",
+      "name": "エンマコオロギ",
+      "scientificName": "Teleogryllus emma",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "秋の草地で、オスがよく響く声を出す大きめのコオロギです。黒っぽい体と、顔のはっきりした模様が特徴です。草の根元などに隠れて暮らします。メスはお尻に卵を産むための長い管があり、オスと見分けられます。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/teleogryllus-emma-card.webp",
+        "detail": "assets/catalog/images/teleogryllus-emma-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "tenodera-sinensis",
+      "name": "オオカマキリ",
+      "scientificName": "Tenodera sinensis",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "長い胸と力強い前脚を持つ、大型のカマキリです。草地で昆虫などを捕まえます。体には緑色と茶色のものがあり、後ろばねには暗い色の部分があります。顔の向きを変えて周りを見るしぐさも観察できます。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/tenodera-sinensis-card.webp",
+        "detail": "assets/catalog/images/tenodera-sinensis-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "dorcus-hopei",
+      "name": "オオクワガタ",
+      "scientificName": "Dorcus hopei",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "黒くつやのある体と、太い大あごが特徴のクワガタです。成虫は木の穴やすき間を隠れ場所にし、樹液をなめます。幼虫は朽ち木の中で育ちます。大きさだけでなく、大あごの内側にある歯の形にも注目できます。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/dorcus-hopei-card.webp",
+        "detail": "assets/catalog/images/dorcus-hopei-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "orthetrum-melania",
+      "name": "オオシオカラトンボ",
+      "scientificName": "Orthetrum melania",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "シオカラトンボに似ていますが、体が太くがっしりしたトンボです。成熟したオスは青みの強い粉をまとい、はねの付け根にも暗い色があります。池や林の近くの水辺で見られます。体の色と太さに注目できます。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/orthetrum-melania-card.webp",
+        "detail": "assets/catalog/images/orthetrum-melania-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "bombus-hypocrita",
+      "name": "オオマルハナバチ",
+      "scientificName": "Bombus hypocrita",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "ふさふさした黒や淡い色の毛に覆われた、丸い体のハチです。さまざまな花を訪れ、蜜や花粉を集めます。女王バチと働きバチが暮らす巣を作ります。花の上で動く姿から、毛の多さや丸い輪郭を観察できます。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/bombus-hypocrita-card.webp",
+        "detail": "assets/catalog/images/bombus-hypocrita-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "papilio-macilentus",
+      "name": "オナガアゲハ",
+      "scientificName": "Papilio macilentus",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "黒いはねと、長く伸びた尾のような部分が特徴のチョウです。山の林や渓流の近くなどで見られ、花の蜜や地面の水を吸います。幼虫はコクサギなどの葉を食べます。ほかの黒いアゲハより細長い姿が印象的です。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/papilio-macilentus-card.webp",
+        "detail": "assets/catalog/images/papilio-macilentus-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "prismognathus-angularis",
+      "name": "オニクワガタ",
+      "scientificName": "Prismognathus angularis",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "山の林で見られる、小型のクワガタです。オスのあごは短めでも鋭く、頭の形と合わせて力強い印象を与えます。体は褐色から黒っぽい色をしています。ミヤマクワガタなどとは違う、小さな山の仲間です。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/prismognathus-angularis-card.webp",
+        "detail": "assets/catalog/images/prismognathus-angularis-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "atractomorpha-lata",
+      "name": "オンブバッタ",
+      "scientificName": "Atractomorpha lata",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "とがった頭と細長い体を持つ、小さめのバッタです。大きなメスの背中に小さなオスが乗る姿が、名前の由来です。草地や畑で葉を食べます。緑色と茶色のものがいて、草や枯れ葉にまぎれながら暮らしています。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/atractomorpha-lata-card.webp",
+        "detail": "assets/catalog/images/atractomorpha-lata-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "kabutomushi",
+      "name": "カブトムシ",
+      "scientificName": "Trypoxylus dichotomus",
+      "classification": "コガネムシ科 カブトムシ属",
+      "family": "コガネムシ科",
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "夏の雑木林で樹液をなめる、がっしりした体の甲虫です。オスには大きな角があり、樹液の出る場所でほかのオスを押しのけます。昼は落ち葉の下などに隠れ、夜に活動します。幼虫は腐葉土の中で育ちます。"
+        }
+      ],
+      "featurePoints": [
+        "オスは頭部と胸部に大きな角があります",
+        "体は丸みがあり、光沢のある褐色です",
+        "脚には木につかまるための鋭い爪があります"
+      ],
+      "similarSpeciesNote": "メスには大きな角がなく、コカブトムシと形が似ることがあります。",
+      "nameReviewedAt": "2026-09-15",
+      "image": {
+        "card": "assets/catalog/images/kabutomushi-card.webp",
+        "detail": "assets/catalog/images/kabutomushi-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "aiolocaria-hexaspilota",
+      "name": "カメノコテントウ",
+      "scientificName": "Aiolocaria hexaspilota",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "赤と黒の大きな模様が目立つ、大型のテントウムシです。成虫も幼虫も、クルミハムシなどの幼虫を食べます。秋には木の皮の下などに集まって冬を越します。丸い背中の模様を、カメの甲羅に見立てた名前です。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/aiolocaria-hexaspilota-card.webp",
+        "detail": "assets/catalog/images/aiolocaria-hexaspilota-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "papilio-hippocrates",
+      "name": "キアゲハ",
+      "scientificName": "Papilio hippocrates",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "黄色いはねに黒い筋が入る、大きなチョウです。明るい草地や畑の周りで花を訪れます。幼虫はニンジンやパセリなど、セリ科の植物を食べて育ちます。ナミアゲハに似ていますが、前ばねの付け根の模様が違います。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/papilio-hippocrates-card.webp",
+        "detail": "assets/catalog/images/papilio-hippocrates-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "ceratina-flavipes",
+      "name": "キオビツヤハナバチ",
+      "scientificName": "Ceratina flavipes",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "黒くつやのある小さな体に、黄色い細い帯があるハチです。花を訪れて蜜や花粉を利用し、カヤやキイチゴなどの茎の中に巣を作ります。大きなクマバチと同じミツバチ科の仲間で、小さな花の上でも探せます。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/ceratina-flavipes-card.webp",
+        "detail": "assets/catalog/images/ceratina-flavipes-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "eurema-mandarina",
+      "name": "キタキチョウ",
+      "scientificName": "Eurema mandarina",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "明るい黄色のはねを持ち、草地や林の周りをひらひら飛ぶチョウです。いろいろな花の蜜を吸い、幼虫はネムノキやハギの仲間などを食べます。成虫のまま冬を越すため、暖かな冬の日に姿を見せることもあります。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/eurema-mandarina-card.webp",
+        "detail": "assets/catalog/images/eurema-mandarina-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "polygonia-c-aureum",
+      "name": "キタテハ",
+      "scientificName": "Polygonia c-aureum",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "オレンジ色のはねに黒い斑点があり、縁がぎざぎざしたチョウです。草地や林の周りで見られます。幼虫はカナムグラを食べます。秋の個体は成虫で冬を越し、はねを閉じると枯れ葉に似た姿になります。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/polygonia-c-aureum-card.webp",
+        "detail": "assets/catalog/images/polygonia-c-aureum-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "nymphalis-antiopa",
+      "name": "キベリタテハ",
+      "scientificName": "Nymphalis antiopa",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "深い茶色のはねを、淡い黄色の縁取りと青い点が飾るチョウです。山地の林などで見られ、樹液に来ることもあります。幼虫はヤナギやカンバの仲間などを食べます。暗い色と明るい縁の組み合わせが印象的です。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/nymphalis-antiopa-card.webp",
+        "detail": "assets/catalog/images/nymphalis-antiopa-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "xylocopa-appendiculata",
+      "name": "キムネクマバチ",
+      "scientificName": "Xylocopa appendiculata",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "黒く太い体と、胸の黄色い毛が目立つハチです。フジなどの花に来て、蜜や花粉を集めます。木に穴を掘って巣を作ります。オスが同じ場所を飛び続けることもあり、大きな羽音と丸い姿が印象的です。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/xylocopa-appendiculata-card.webp",
+        "detail": "assets/catalog/images/xylocopa-appendiculata-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "luehdorfia-japonica",
+      "name": "ギフチョウ",
+      "scientificName": "Luehdorfia japonica",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "春の林に現れる、黄色と黒の模様が鮮やかなチョウです。カタクリやスミレなどの花を訪れ、蜜を吸います。幼虫はカンアオイの仲間の葉を食べて育ちます。成虫を見られる期間が短く、春の訪れを感じさせます。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/luehdorfia-japonica-card.webp",
+        "detail": "assets/catalog/images/luehdorfia-japonica-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "cryptotympana-facialis",
+      "name": "クマゼミ",
+      "scientificName": "Cryptotympana facialis",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "黒く大きな体と透明なはねを持つセミです。暖かい地方の公園や街路樹でも見られ、夏の朝にはオスの大きな声が響きます。幼虫は地中で木の根から汁を吸って育ちます。胸や腹の太さも目を引く大型の仲間です。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/cryptotympana-facialis-card.webp",
+        "detail": "assets/catalog/images/cryptotympana-facialis-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "gastrimargus-marmoratus",
+      "name": "クルマバッタ",
+      "scientificName": "Gastrimargus marmoratus",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "草地にすむ、大きめのバッタです。飛ぶと後ろばねの黒い帯が見え、車輪のような印象になります。体には緑色と茶色のものがあります。よく似たクルマバッタモドキと比べると、胸の背中が盛り上がるのが特徴です。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/gastrimargus-marmoratus-card.webp",
+        "detail": "assets/catalog/images/gastrimargus-marmoratus-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "oedaleus-infernalis",
+      "name": "クルマバッタモドキ",
+      "scientificName": "Oedaleus infernalis",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "草の低い空き地や河原などで見られるバッタです。茶色のまだら模様が多く、胸には白い線があります。クルマバッタに似ていますが、背中の盛り上がりが弱いのが特徴です。草を食べながら、地面の色になじんで暮らします。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/oedaleus-infernalis-card.webp",
+        "detail": "assets/catalog/images/oedaleus-infernalis-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "papilio-protenor",
+      "name": "クロアゲハ",
+      "scientificName": "Papilio protenor",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "黒く大きなはねで、林の周りや庭先を飛ぶチョウです。花を訪れて蜜を吸い、幼虫はミカンやサンショウなどの葉を食べます。よく似た黒いアゲハがいるため、はねの形や後ろばねの赤い模様に注目してみましょう。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/papilio-protenor-card.webp",
+        "detail": "assets/catalog/images/papilio-protenor-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "bombus-ignitus",
+      "name": "クロマルハナバチ",
+      "scientificName": "Bombus ignitus",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "黒い毛に覆われた体と、オレンジ色のお尻が目立つハチです。オスには黄色い毛の部分もあります。花から蜜や花粉を集め、植物の花粉を運びます。丸い体つきで、草地や畑の花にも訪れるマルハナバチの仲間です。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/bombus-ignitus-card.webp",
+        "detail": "assets/catalog/images/bombus-ignitus-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "auritibicen-bihamatus",
+      "name": "コエゾゼミ",
+      "scientificName": "Auritibicen bihamatus",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "山の林で夏に見られるセミです。黒っぽい体に黄色やオレンジ色の模様があり、エゾゼミよりやや小さめです。オスは木にとまって、続くような声で鳴きます。よく似た仲間とは、胸の模様などを比べて見分けます。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/auritibicen-bihamatus-card.webp",
+        "detail": "assets/catalog/images/auritibicen-bihamatus-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "kokabutomushi",
+      "name": "コカブトムシ",
+      "scientificName": "Eophileurus chinensis",
+      "classification": "コガネムシ科 コカブト属",
+      "family": "コガネムシ科",
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "カブトムシよりずっと小さく、黒くつやのある平たい体をしています。オスの頭には小さな突起があります。夜に活動し、朽ち木の周りなどで見られます。大きな角だけでなく、体の形にも注目してみましょう。"
+        }
+      ],
+      "featurePoints": [
+        "カブトムシより小さく平たい体つきです",
+        "オスの頭部には小さな突起があります",
+        "黒色で強い光沢があります"
+      ],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": "2026-09-15",
+      "image": {
+        "card": "assets/catalog/images/kokabutomushi-card.webp",
+        "detail": "assets/catalog/images/kokabutomushi-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "statilia-maculata",
+      "name": "コカマキリ",
+      "scientificName": "Statilia maculata",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "茶色い体が枯れ草に溶け込む、小型のカマキリです。草地などで小さな昆虫を待ち伏せし、鎌のような前脚で捕らえます。前脚の内側には黒と白の模様があります。体の色だけでなく、脚の模様も見分ける手がかりです。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/statilia-maculata-card.webp",
+        "detail": "assets/catalog/images/statilia-maculata-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "dorcus-rectus",
+      "name": "コクワガタ",
+      "scientificName": "Dorcus rectus",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "雑木林や公園の木でも見られる、身近なクワガタです。黒っぽく細長い体をしていて、樹液に集まります。オスの大あごの形は体の大きさによって変わります。木のすき間に隠れることも多い、小回りの利く仲間です。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/dorcus-rectus-card.webp",
+        "detail": "assets/catalog/images/dorcus-rectus-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "pseudothemis-zonata",
+      "name": "コシアキトンボ",
+      "scientificName": "Pseudothemis zonata",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "黒い体の腹の付け根付近に、白く抜けたような部分があるトンボです。若い個体やメスでは、その部分が黄色っぽく見えます。池の周りを巡回する姿がよく見られます。飛んでいても目立つ模様が名前の由来です。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/pseudothemis-zonata-card.webp",
+        "detail": "assets/catalog/images/pseudothemis-zonata-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "bombus-ardens",
+      "name": "コマルハナバチ",
+      "scientificName": "Bombus ardens",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "比較的小さなマルハナバチの仲間です。メスは黒い毛とオレンジ色のお尻が特徴で、オスは黄色い毛が目立ちます。春から花に飛んできて、蜜や花粉を利用します。オスとメスを比べると、同じ種類でも印象が違います。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/bombus-ardens-card.webp",
+        "detail": "assets/catalog/images/bombus-ardens-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "araschnia-burejana",
+      "name": "サカハチチョウ",
+      "scientificName": "Araschnia burejana",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "春と夏で、はねの模様が大きく変わるチョウです。夏の個体では黒っぽいはねに白い帯が目立ちます。山の林の周りなどで見られ、幼虫はコアカソなどの葉を食べます。同じ種類の季節による変化が楽しめます。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/araschnia-burejana-card.webp",
+        "detail": "assets/catalog/images/araschnia-burejana-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "orthetrum-albistylum",
+      "name": "シオカラトンボ",
+      "scientificName": "Orthetrum albistylum",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "池や田んぼの周りでよく見られるトンボです。成熟したオスは腹に青白い粉をまとい、メスや若いオスは黄色っぽい体をしています。空中の小さな虫を捕らえて食べます。同じ種類でも色が違うことが観察のポイントです。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/orthetrum-albistylum-card.webp",
+        "detail": "assets/catalog/images/orthetrum-albistylum-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "orthetrum-japonicum",
+      "name": "シオヤトンボ",
+      "scientificName": "Orthetrum japonicum",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "春から初夏の湿地などで見られるトンボです。シオカラトンボより、腹が短く太い印象です。若いオスやメスは黄色と黒の模様があり、成熟したオスは青白くなります。早い季節の水辺で探してみたい仲間です。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/orthetrum-japonicum-card.webp",
+        "detail": "assets/catalog/images/orthetrum-japonicum-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "papilio-polytes",
+      "name": "シロオビアゲハ",
+      "scientificName": "Papilio polytes",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "黒いはねに白い帯が入る、南の島で見られるアゲハの仲間です。花の蜜を吸い、幼虫はミカン科の植物を食べます。メスには、赤い模様を持つ別のチョウに似た姿のものもいます。同じ種類の中の違いが楽しめます。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/papilio-polytes-card.webp",
+        "detail": "assets/catalog/images/papilio-polytes-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "polygonia-c-album",
+      "name": "シータテハ",
+      "scientificName": "Polygonia c-album",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "はねの縁がぎざぎざしていて、裏側に白いＣ字形の模様があるチョウです。山の林の周りなどで見られ、成虫で冬を越します。キタテハに似ていますが、はねの形や模様が違います。表と裏で印象が大きく変わります。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/polygonia-c-album-card.webp",
+        "detail": "assets/catalog/images/polygonia-c-album-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "atrophaneura-alcinous",
+      "name": "ジャコウアゲハ",
+      "scientificName": "Atrophaneura alcinous",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "黒っぽいはねと、赤い色が目立つ体を持つアゲハの仲間です。草地の周りをゆったり飛び、花の蜜を吸います。幼虫はウマノスズクサを食べ、その成分を体に蓄えます。成虫も鳥などに食べられにくくなります。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/atrophaneura-alcinous-card.webp",
+        "detail": "assets/catalog/images/atrophaneura-alcinous-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "dorcus-striatipennis",
+      "name": "スジクワガタ",
+      "scientificName": "Dorcus striatipennis",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "小型で黒っぽく、はねの縦の筋が見どころのクワガタです。コクワガタによく似ていますが、オスの大あごの形などに違いがあります。林で樹液に集まります。大きなオスと小さなオスでも、姿の印象が変わります。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/dorcus-striatipennis-card.webp",
+        "detail": "assets/catalog/images/dorcus-striatipennis-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "pieris-melete",
+      "name": "スジグロシロチョウ",
+      "scientificName": "Pieris melete",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "白いはねの筋が、黒く目立つチョウです。モンシロチョウに似ていますが、林の周りや少し日陰のある場所でもよく見られます。幼虫はアブラナ科の植物を食べます。はねの裏の筋を見比べると違いを探せます。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/pieris-melete-card.webp",
+        "detail": "assets/catalog/images/pieris-melete-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "gonepteryx-aspasia",
+      "name": "スジボソヤマキチョウ",
+      "scientificName": "Gonepteryx aspasia",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "淡い黄色で、はねの先が葉のようにとがったチョウです。林の周りや渓流沿いで花を訪れ、地面で水を飲むこともあります。幼虫はクロウメモドキなどを食べます。成虫で冬を越し、春にも同じ個体が活動します。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/gonepteryx-aspasia-card.webp",
+        "detail": "assets/catalog/images/gonepteryx-aspasia-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "apis-mellifera",
+      "name": "セイヨウミツバチ",
+      "scientificName": "Apis mellifera",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "養蜂でよく利用されるミツバチです。女王バチや働きバチなどが役割を分けて、大きな群れで暮らします。花の蜜や花粉を集め、植物の受粉を助けます。花の上では、後ろ脚に花粉のかたまりを付けた姿も見られます。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/apis-mellifera-card.webp",
+        "detail": "assets/catalog/images/apis-mellifera-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "xylocopa-tranquebarorum",
+      "name": "タイワンタケクマバチ",
+      "scientificName": "Xylocopa tranquebarorum",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "黒っぽい大きな体をした、竹に巣を作るクマバチの仲間です。花を訪れて蜜や花粉を利用します。キムネクマバチのような黄色い胸の毛が目立ちません。日本では外来の種類で、竹のある場所などで見られます。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/xylocopa-tranquebarorum-card.webp",
+        "detail": "assets/catalog/images/xylocopa-tranquebarorum-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "junonia-almana",
+      "name": "タテハモドキ",
+      "scientificName": "Junonia almana",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "オレンジ色のはねに、大きな目玉のような模様があるチョウです。暖かい地方の草地などで見られます。季節によって、はねの裏側の模様が変わります。はねを開いたときと閉じたときの印象の違いも観察できます。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/junonia-almana-card.webp",
+        "detail": "assets/catalog/images/junonia-almana-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "cheilomenes-sexmaculata",
+      "name": "ダンダラテントウ",
+      "scientificName": "Cheilomenes sexmaculata",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "暖かい地方でよく見られる、黒と赤の模様を持つテントウムシです。模様の広がり方には個体差や地域差があります。成虫も幼虫もアブラムシを食べます。同じ種類でも姿が違うため、いくつか見比べると楽しめます。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/cheilomenes-sexmaculata-card.webp",
+        "detail": "assets/catalog/images/cheilomenes-sexmaculata-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "figulus-binodulus",
+      "name": "チビクワガタ",
+      "scientificName": "Figulus binodulus",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "細長く小さな体をした、黒いつやのあるクワガタです。大あごは短く、オスとメスの見た目もよく似ています。朽ち木の中で暮らし、成虫と幼虫が一緒に見つかることもあります。木の中をすみかにする仲間です。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/figulus-binodulus-card.webp",
+        "detail": "assets/catalog/images/figulus-binodulus-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "tenodera-angustipennis",
+      "name": "チョウセンカマキリ",
+      "scientificName": "Tenodera angustipennis",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "細長い体と鎌のような前脚を持つ、草地のカマキリです。オオカマキリによく似ていますが、後ろばねの色などが違います。草の上で待ち伏せし、近づく昆虫を捕まえます。体の色には緑色と茶色があります。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/tenodera-angustipennis-card.webp",
+        "detail": "assets/catalog/images/tenodera-angustipennis-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "rhyothemis-fuliginosa",
+      "name": "チョウトンボ",
+      "scientificName": "Rhyothemis fuliginosa",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "黒っぽく幅広いはねを、チョウのようにひらひら動かして飛ぶトンボです。はねは光の当たり方で青や紫に輝きます。水草の多い池などで見られます。体の色だけでなく、飛び方にも特徴がある仲間です。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/rhyothemis-fuliginosa-card.webp",
+        "detail": "assets/catalog/images/rhyothemis-fuliginosa-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "meimuna-opalifera",
+      "name": "ツクツクボウシ",
+      "scientificName": "Meimuna opalifera",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "夏の後半によく聞かれる、特徴的な節回しで鳴くセミです。緑と黒を帯びた細めの体と、透明なはねを持ちます。オスの声が名前の由来になっています。公園や林で声を聞いたら、ほかのセミとの違いを楽しめます。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/meimuna-opalifera-card.webp",
+        "detail": "assets/catalog/images/meimuna-opalifera-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "anthocharis-scolymus",
+      "name": "ツマキチョウ",
+      "scientificName": "Anthocharis scolymus",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "春だけ姿を見せる、小さな白いチョウです。オスは前ばねの先がオレンジ色になり、はねの裏側には細かなまだら模様があります。林の周りや草地を飛び、幼虫はナズナなどのアブラナ科の植物を食べて育ちます。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/anthocharis-scolymus-card.webp",
+        "detail": "assets/catalog/images/anthocharis-scolymus-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "eurema-laeta",
+      "name": "ツマグロキチョウ",
+      "scientificName": "Eurema laeta",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "小さな黄色いチョウで、秋に現れるものは前ばねの先がとがります。河原などの草地で花を訪れ、幼虫はカワラケツメイの葉を食べます。キタキチョウによく似ていますが、はねの裏側の筋や輪郭が見分ける手がかりです。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/eurema-laeta-card.webp",
+        "detail": "assets/catalog/images/eurema-laeta-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "stethophyma-magister",
+      "name": "ツマグロバッタ",
+      "scientificName": "Stethophyma magister",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "はねの先や後ろ脚の黒い部分が目立つバッタです。背の高い草が生える、湿った草地などで見られます。オスは明るい黄褐色、メスは枯れ草に近い色をしています。草を食べて暮らし、夏から秋に成虫が現れます。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/stethophyma-magister-card.webp",
+        "detail": "assets/catalog/images/stethophyma-magister-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "locusta-migratoria",
+      "name": "トノサマバッタ",
+      "scientificName": "Locusta migratoria",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "太い後ろ脚で大きく跳ぶ、大型のバッタです。河原や草地で見られ、イネ科の草などを食べます。体には緑色と茶色のものがあります。はねを使って遠くまで飛べるため、跳ぶ力と飛ぶ力の両方に注目できます。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/locusta-migratoria-card.webp",
+        "detail": "assets/catalog/images/locusta-migratoria-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "bombus-diversus",
+      "name": "トラマルハナバチ",
+      "scientificName": "Bombus diversus",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "黄褐色のふさふさした毛に覆われた、丸い体のハチです。長い口を使って、筒の深い花からも蜜を吸います。林の周りや草地の花を訪れ、花粉を運びます。大きな羽音と、やわらかそうな毛並みが印象的です。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/bombus-diversus-card.webp",
+        "detail": "assets/catalog/images/bombus-diversus-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "papilio-memnon",
+      "name": "ナガサキアゲハ",
+      "scientificName": "Papilio memnon",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "大きな黒いはねを持つ、暖かい地方のアゲハチョウです。オスとメスで模様が違い、メスには白っぽい部分が目立つものもいます。花に飛んできて蜜を吸います。幼虫はミカンの仲間の葉を食べて育ちます。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/papilio-memnon-card.webp",
+        "detail": "assets/catalog/images/papilio-memnon-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "coccinella-septempunctata",
+      "name": "ナナホシテントウ",
+      "scientificName": "Coccinella septempunctata",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "赤い背中に七つの黒い斑点がある、身近なテントウムシです。草地や畑で見られ、成虫も幼虫もアブラムシを食べます。幼虫は細長い姿で、丸い成虫とはずいぶん違います。葉の上の小さな生きものに注目してみましょう。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/coccinella-septempunctata-card.webp",
+        "detail": "assets/catalog/images/coccinella-septempunctata-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "papilio-xuthus",
+      "name": "ナミアゲハ",
+      "scientificName": "Papilio xuthus",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "住宅地や公園でも見られる、身近なアゲハチョウです。淡い黄色のはねに黒い模様があり、花から花へ飛び回ります。幼虫はミカンやサンショウの葉を食べます。小さな幼虫と大きくなった幼虫で、姿が大きく変わります。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/papilio-xuthus-card.webp",
+        "detail": "assets/catalog/images/papilio-xuthus-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "harmonia-axyridis",
+      "name": "ナミテントウ",
+      "scientificName": "Harmonia axyridis",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "黒地に赤い斑点、赤地にたくさんの黒点など、模様の変化が多いテントウムシです。成虫も幼虫もアブラムシを食べます。秋には建物や木のすき間に集まって冬を越すことがあります。模様の違いも観察の楽しみです。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/harmonia-axyridis-card.webp",
+        "detail": "assets/catalog/images/harmonia-axyridis-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "platypleura-kaempferi",
+      "name": "ニイニイゼミ",
+      "scientificName": "Platypleura kaempferi",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "初夏から鳴き始める、小型のセミです。茶色いまだら模様のはねが木の幹になじみ、姿を見つけるのは意外に難しいこともあります。オスは細く続く声で鳴きます。丸い抜け殻に泥が付いているのも特徴です。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/platypleura-kaempferi-card.webp",
+        "detail": "assets/catalog/images/platypleura-kaempferi-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "apis-cerana",
+      "name": "ニホンミツバチ",
+      "scientificName": "Apis cerana",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "日本にもともとすむ、ミツバチの仲間です。たくさんの働きバチが協力して巣を維持し、いろいろな花から蜜や花粉を集めます。木の穴などを巣に利用します。花を訪れる姿を通して、植物とのつながりを観察できます。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/apis-cerana-card.webp",
+        "detail": "assets/catalog/images/apis-cerana-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "dorcus-nepalensis",
+      "name": "ネパールコクワガタ",
+      "scientificName": "Dorcus nepalensis",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "ネパールコクワガタと呼ばれる、アジアのクワガタです。黒っぽい体を持ち、オスでは大あごが発達します。日本のコクワガタと比べながら、あごの曲がり方や胸の形を見ると、似ている点と違う点を探せます。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": "2026-09-15",
+      "image": {
+        "card": "assets/catalog/images/dorcus-nepalensis-card.webp",
+        "detail": "assets/catalog/images/dorcus-nepalensis-detail.webp",
+        "credit": "Ramnarayan K",
+        "license": "CC-BY-4.0",
+        "sourceUrl": "https://www.inaturalist.org/photos/140240170"
+      }
+    },
+    {
+      "id": "aegus-laevicollis",
+      "name": "ネブトクワガタ",
+      "scientificName": "Aegus laevicollis",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "小さな体に力強い大あごを持つクワガタです。背中のはねには縦の筋が並び、近くで見ると独特の質感があります。幼虫は朽ち木の中で育ちます。大きなクワガタだけでなく、小型の仲間にもさまざまな特徴があります。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": "2026-09-29",
+      "image": {
+        "card": "assets/catalog/images/aegus-laevicollis-card.webp",
+        "detail": "assets/catalog/images/aegus-laevicollis-detail.webp",
+        "credit": "Licheng Shih",
+        "license": "CC-BY-4.0",
+        "sourceUrl": "https://www.inaturalist.org/photos/251545422"
+      }
+    },
+    {
+      "id": "nokogiri-kuwagata",
+      "name": "ノコギリクワガタ",
+      "scientificName": "Prosopocoilus inclinatus",
+      "classification": "クワガタムシ科 ノコギリクワガタ属",
+      "family": "クワガタムシ科",
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "オスの大あごが、ノコギリのような歯の並ぶ形になるクワガタです。大きなオスほど、あごが強く曲がります。体は赤茶色から黒っぽい色をしており、夏の雑木林で樹液に集まります。メスのあごは小さめです。"
+        }
+      ],
+      "featurePoints": [
+        "オスの大あごは内側に細かな歯が並びます",
+        "体は赤褐色から黒褐色です",
+        "大あごの形は体の大きさによって変わります"
+      ],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": "2026-09-15",
+      "image": {
+        "card": "assets/catalog/images/nokogiri-kuwagata-card.webp",
+        "detail": "assets/catalog/images/nokogiri-kuwagata-detail.webp",
+        "credit": "Se Lena",
+        "license": "CC-BY-4.0",
+        "sourceUrl": "https://www.inaturalist.org/photos/224989003"
+      }
+    },
+    {
+      "id": "nannophya-pygmaea",
+      "name": "ハッチョウトンボ",
+      "scientificName": "Nannophya pygmaea",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "日本で最も小さいトンボの一つで、体は二センチほどです。浅い湿地にすみ、成熟したオスは赤くなります。メスには黄色と黒の模様があります。草の先にとまる小さな姿から、大きさの違いを実感できます。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/nannophya-pygmaea-card.webp",
+        "detail": "assets/catalog/images/nannophya-pygmaea-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "loxoblemmus-campestris",
+      "name": "ハラオカメコオロギ",
+      "scientificName": "Loxoblemmus campestris",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "草地などで見られる、小さな茶色いコオロギです。秋にはオスがはねをこすって鳴きます。モリオカメコオロギによく似ているため、色だけで見分けるのは難しい仲間です。姿と声を合わせて観察すると違いを探せます。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/loxoblemmus-campestris-card.webp",
+        "detail": "assets/catalog/images/loxoblemmus-campestris-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "hierodula-patellifera",
+      "name": "ハラビロカマキリ",
+      "scientificName": "Hierodula patellifera",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "短めの胸と幅広い腹を持つ、がっしりしたカマキリです。木の枝や葉の上で見られ、昆虫を捕まえて食べます。緑色のものが多く、前ばねの白っぽい点も目印です。葉にまぎれた姿から、隠れる工夫を探せます。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/hierodula-patellifera-card.webp",
+        "detail": "assets/catalog/images/hierodula-patellifera-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "lyriothemis-pachygastra",
+      "name": "ハラビロトンボ",
+      "scientificName": "Lyriothemis pachygastra",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "短く幅広い腹が特徴の、小さめのトンボです。湿地や浅い水辺の周りで見られます。若いときは黄色と黒の模様がありますが、オスは成熟すると青白い粉をまといます。成長による体の色の変化も楽しめます。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/lyriothemis-pachygastra-card.webp",
+        "detail": "assets/catalog/images/lyriothemis-pachygastra-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "nymphalis-xanthomelas",
+      "name": "ヒオドシチョウ",
+      "scientificName": "Nymphalis xanthomelas",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "赤みのあるオレンジ色のはねに、黒い斑点が散らばるチョウです。林の周りで見られ、幼虫はエノキなどの葉を食べます。成虫のまま冬を越します。はねを閉じると、裏側の地味な色が木の皮に溶け込みます。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/nymphalis-xanthomelas-card.webp",
+        "detail": "assets/catalog/images/nymphalis-xanthomelas-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "tanna-japonensis",
+      "name": "ヒグラシ",
+      "scientificName": "Tanna japonensis",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "朝や夕方の薄暗い林で、オスが澄んだ声を響かせるセミです。緑と茶色を帯びた体に透明なはねを持ちます。昼でも暗い林や曇った日には鳴くことがあります。姿だけでなく、鳴く時間や周囲の明るさも観察のポイントです。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/tanna-japonensis-card.webp",
+        "detail": "assets/catalog/images/tanna-japonensis-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "amantis-nawai",
+      "name": "ヒナカマキリ",
+      "scientificName": "Amantis nawai",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "落ち葉の周りなどで暮らす、とても小さなカマキリです。茶色っぽい体ではねも短く、成虫でも幼虫のように見えます。林の地面や低い木の上で、アリなどの小さな昆虫を捕まえます。小さな狩りの名手です。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/amantis-nawai-card.webp",
+        "detail": "assets/catalog/images/amantis-nawai-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "vanessa-cardui",
+      "name": "ヒメアカタテハ",
+      "scientificName": "Vanessa cardui",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "オレンジ色と黒の模様があるチョウです。明るい草地や畑の周りで花の蜜を吸います。幼虫はヨモギやアザミの仲間などを食べます。世界の広い地域に分布し、遠くまで移動することでも知られる、たくましい仲間です。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/vanessa-cardui-card.webp",
+        "detail": "assets/catalog/images/vanessa-cardui-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "chilocorus-kuwanae",
+      "name": "ヒメアカホシテントウ",
+      "scientificName": "Chilocorus kuwanae",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "黒いつやのある背中に、小さな赤い斑点が二つあるテントウムシです。成虫も幼虫も、木に付くカイガラムシを食べます。体は小さいため、葉や枝にいる姿をじっくり見ると、丸い形と鮮やかな模様が分かります。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/chilocorus-kuwanae-card.webp",
+        "detail": "assets/catalog/images/chilocorus-kuwanae-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "acromantis-japonica",
+      "name": "ヒメカマキリ",
+      "scientificName": "Acromantis japonica",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "木や草の上で見られる、小型のカマキリです。茶色っぽい体が枯れ葉や枝になじみ、小さな昆虫を前脚で捕まえます。成虫は秋に見られます。体をゆらすしぐさや、獲物を待つときの姿勢など、動きにも特徴があります。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/acromantis-japonica-card.webp",
+        "detail": "assets/catalog/images/acromantis-japonica-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "propylea-japonica",
+      "name": "ヒメカメノコテントウ",
+      "scientificName": "Propylea japonica",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "淡い黄色の背中に黒い模様が入る、小さなテントウムシです。庭や草地でも見られ、成虫も幼虫もアブラムシを食べます。黒い模様が広がったものや、薄くなったものもいます。小さな体の模様に個性がある仲間です。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/propylea-japonica-card.webp",
+        "detail": "assets/catalog/images/propylea-japonica-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "luehdorfia-puziloi",
+      "name": "ヒメギフチョウ",
+      "scientificName": "Luehdorfia puziloi",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "春に姿を見せる、黄色と黒の模様を持つチョウです。ギフチョウによく似ていますが、北海道や本州の比較的寒い地域で見られます。幼虫はウスバサイシンなどの葉を食べます。春の花と一緒に観察したい昆虫です。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/luehdorfia-puziloi-card.webp",
+        "detail": "assets/catalog/images/luehdorfia-puziloi-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "leptidea-amurensis",
+      "name": "ヒメシロチョウ",
+      "scientificName": "Leptidea amurensis",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "細長い白いはねを持つ、小さなチョウです。草原や土手の低いところをゆっくり飛び、花の蜜を吸います。幼虫はツルフジバカマなどのマメ科の植物を食べます。見られる場所が限られる、草原と結びついた昆虫です。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/leptidea-amurensis-card.webp",
+        "detail": "assets/catalog/images/leptidea-amurensis-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "euterpnosia-chibensis",
+      "name": "ヒメハルゼミ",
+      "scientificName": "Euterpnosia chibensis",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "暖かい地方の林にすむ、小型のセミです。初夏から夏にオスが鳴き、たくさんの個体が一斉に声を出すことがあります。透明なはねと、緑を帯びた体が特徴です。声が広がる林から、暮らしている場所を感じられます。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/euterpnosia-chibensis-card.webp",
+        "detail": "assets/catalog/images/euterpnosia-chibensis-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "serrognathus-titanus",
+      "name": "ヒラタクワガタ",
+      "scientificName": "Serrognathus titanus",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "幅広く平たい黒い体と、太く力強い大あごを持つクワガタです。木のすき間などに身を隠し、樹液をなめて暮らします。オスとメスではあごの大きさが違います。横から見ると、名前の通りの平たい体がよく分かります。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": "2026-09-15",
+      "image": {
+        "card": "assets/catalog/images/serrognathus-titanus-card.webp",
+        "detail": "assets/catalog/images/serrognathus-titanus-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "trithemis-aurora",
+      "name": "ベニトンボ",
+      "scientificName": "Trithemis aurora",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "暖かい地方の水辺で見られるトンボです。成熟したオスは、紅色から赤紫色を帯びた鮮やかな体になります。メスは黄色っぽい体に黒い模様があります。草や枝にとまった姿から、オスとメスの色の違いを比べられます。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/trithemis-aurora-card.webp",
+        "detail": "assets/catalog/images/trithemis-aurora-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "sericinus-montela",
+      "name": "ホソオチョウ",
+      "scientificName": "Sericinus montela",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "後ろのはねから、細く長い尾が伸びるチョウです。明るい草地をゆっくり飛び、オスとメスでははねの模様が違います。幼虫はウマノスズクサの葉を食べます。日本では人の手で持ち込まれたと考えられています。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/sericinus-montela-card.webp",
+        "detail": "assets/catalog/images/sericinus-montela-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "graphium-doson",
+      "name": "ミカドアゲハ",
+      "scientificName": "Graphium doson",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "黒いはねに、淡い色の斑点が帯のように並ぶアゲハの仲間です。暖かい地方の林の周りなどで見られ、地面で水を飲むこともあります。幼虫はオガタマノキやタイサンボクの葉を食べます。模様の並び方が見どころです。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/graphium-doson-card.webp",
+        "detail": "assets/catalog/images/graphium-doson-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "loxoblemmus-doenitzi",
+      "name": "ミツカドコオロギ",
+      "scientificName": "Loxoblemmus doenitzi",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "オスの平たい顔の両側が、角のように張り出すコオロギです。草地や畑の周りなどで見られ、秋には短く区切るような声で鳴きます。体は黒茶色をしています。正面から顔を見ると、名前の由来となった形が分かります。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/loxoblemmus-doenitzi-card.webp",
+        "detail": "assets/catalog/images/loxoblemmus-doenitzi-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "lucanus-maculifemoratus",
+      "name": "ミヤマクワガタ",
+      "scientificName": "Lucanus maculifemoratus",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "オスの頭の横が張り出し、体に細かな金色の毛があるクワガタです。比較的涼しい林で見られ、夏には樹液に集まります。大あごの先は枝分かれしており、脚には黄色っぽい部分もあります。独特の輪郭が見どころです。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/lucanus-maculifemoratus-card.webp",
+        "detail": "assets/catalog/images/lucanus-maculifemoratus-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "hyalessa-maculaticollis",
+      "name": "ミンミンゼミ",
+      "scientificName": "Hyalessa maculaticollis",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "緑と黒の模様がある体と、透明なはねを持つセミです。夏には、名前の由来となったオスの声が林や公園に響きます。成虫は木の汁を吸って暮らします。鳴き声とともに、幹にとまるときの姿勢も観察してみましょう。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/hyalessa-maculaticollis-card.webp",
+        "detail": "assets/catalog/images/hyalessa-maculaticollis-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "loxoblemmus-sylvestris",
+      "name": "モリオカメコオロギ",
+      "scientificName": "Loxoblemmus sylvestris",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "林の中や林のふちで見られる、小さめのコオロギです。黒茶色の体で、目の間に細い白い帯があります。秋にはオスがはねをこすって鳴きます。ハラオカメコオロギによく似ていて、はねの形や声が見分ける手がかりです。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/loxoblemmus-sylvestris-card.webp",
+        "detail": "assets/catalog/images/loxoblemmus-sylvestris-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "papilio-helenus",
+      "name": "モンキアゲハ",
+      "scientificName": "Papilio helenus",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "黒い後ろばねにある、大きな白い斑点が目立つチョウです。林の周りを飛び、花の蜜を吸います。名前には黄色とありますが、斑点は白っぽく見えます。幼虫はカラスザンショウなどのミカン科の木の葉を食べます。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/papilio-helenus-card.webp",
+        "detail": "assets/catalog/images/papilio-helenus-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "colias-erate",
+      "name": "モンキチョウ",
+      "scientificName": "Colias erate",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "草地や土手でよく見られる、黄色いチョウです。メスには白っぽいものもいて、はねの裏には小さな丸い模様があります。幼虫はシロツメクサなどのマメ科の植物を食べます。花の多い原っぱで探しやすい仲間です。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/colias-erate-card.webp",
+        "detail": "assets/catalog/images/colias-erate-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "pieris-rapae",
+      "name": "モンシロチョウ",
+      "scientificName": "Pieris rapae",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "白いはねに黒い斑点がある、畑や公園で身近なチョウです。花の蜜を吸い、幼虫の青虫はキャベツやアブラナなどの葉を食べます。卵から幼虫、さなぎ、成虫へと姿を変えます。成長の様子も観察しやすい昆虫です。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/pieris-rapae-card.webp",
+        "detail": "assets/catalog/images/pieris-rapae-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "libellula-quadrimaculata",
+      "name": "ヨツボシトンボ",
+      "scientificName": "Libellula quadrimaculata",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "はねの途中にある黒い斑点が、四つの星のように見えるトンボです。池や湿地の周りで見られ、草などにとまって周囲を見張ります。体は茶色っぽく、細かな毛があります。透明なはねの模様が見分ける手がかりです。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/libellula-quadrimaculata-card.webp",
+        "detail": "assets/catalog/images/libellula-quadrimaculata-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "hypolimnas-bolina",
+      "name": "リュウキュウムラサキ",
+      "scientificName": "Hypolimnas bolina",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "南の島などで見られる、大きめのチョウです。オスは黒いはねに白い斑点があり、その周りが青紫色に輝きます。メスは模様の変化が多いのも特徴です。花の蜜を吸いながら、草地や林の周りを飛び回ります。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/hypolimnas-bolina-card.webp",
+        "detail": "assets/catalog/images/hypolimnas-bolina-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "kaniska-canace",
+      "name": "ルリタテハ",
+      "scientificName": "Kaniska canace",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "黒っぽいはねに、鮮やかな青い帯が走るチョウです。公園や林の周りで見られ、樹液や熟した果実にも集まります。幼虫はサルトリイバラなどの葉を食べます。はねを閉じると木の皮に似た、地味な姿になります。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/kaniska-canace-card.webp",
+        "detail": "assets/catalog/images/kaniska-canace-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    },
+    {
+      "id": "thyreus-decorus",
+      "name": "ルリモンハナバチ",
+      "scientificName": "Thyreus decorus",
+      "classification": null,
+      "family": null,
+      "basicInformation": [
+        {
+          "label": "紹介",
+          "value": "黒い体に青い模様がちりばめられた、目を引くハナバチです。林の周りの草地などで花の蜜を吸います。ほかのハナバチの巣に卵を産み、幼虫はそこに蓄えられた花粉を利用します。色だけでなく暮らし方も特徴的です。"
+        }
+      ],
+      "featurePoints": [],
+      "similarSpeciesNote": null,
+      "nameReviewedAt": null,
+      "image": {
+        "card": "assets/catalog/images/thyreus-decorus-card.webp",
+        "detail": "assets/catalog/images/thyreus-decorus-detail.webp",
+        "credit": "AI-generated with OpenAI image_gen",
+        "license": null,
+        "sourceUrl": null
+      }
+    }
+  ]
+}
