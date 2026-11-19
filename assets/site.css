@@ -507,8 +507,14 @@ a:hover { text-decoration-thickness: 2px; }
   background: var(--frame);
   color: var(--frame-text);
   padding: var(--space-xs);
+  /* 動画の幅にカードを合わせる（縦長動画で枠だけが横に広がらないように） */
+  width: fit-content;
+  max-width: 100%;
+  margin: 0;
+  justify-self: center;
 }
 .demo-media video {
+  display: block;
   width: auto;
   max-width: 100%;
   max-height: 420px;
@@ -525,6 +531,16 @@ a:hover { text-decoration-thickness: 2px; }
   line-height: 1.3;
 }
 .demo-media .dot { width: 8px; height: 8px; border-radius: var(--radius-full); background: var(--frame-dot); }
+
+/* ---- ページ末尾の行動喚起（中央寄せ） ---- */
+.page-cta {
+  margin-top: 56px;
+  padding-top: var(--space-xl);
+  border-top: 1px solid var(--line);
+  text-align: center;
+}
+.page-cta-lead { color: var(--text-muted); font-size: 1rem; line-height: 1.7; }
+.page-cta .hero-actions { justify-content: center; margin-top: var(--space-md); }
 
 /* ---- 昆虫一覧のカード（アプリの CollectionCard の形状） ---- */
 .catalog-grid {
@@ -613,6 +629,7 @@ a:hover { text-decoration-thickness: 2px; }
     align-items: stretch;
     background: var(--surface);
     border-left: 1px solid var(--line);
+    border-radius: var(--radius-dialog) 0 0 var(--radius-dialog);
     transform: translateX(100%);
     visibility: hidden;
     overflow-y: auto;
@@ -628,9 +645,16 @@ a:hover { text-decoration-thickness: 2px; }
     border-bottom: 1px solid var(--line);
   }
   .site-nav-title { font-size: 1rem; line-height: 1.7; font-weight: 700; }
-  .site-nav ul { flex-direction: column; align-items: stretch; gap: 0; padding-block: var(--space-xs); }
-  .site-nav a { display: flex; min-height: 56px; padding-inline: var(--space-md); color: var(--text); }
-  .site-nav li + li a { border-top: 1px solid var(--line); }
+  .nav-close { border-radius: var(--radius-full); }
+  .site-nav ul { flex-direction: column; align-items: stretch; gap: 4px; padding: var(--space-xs); }
+  .site-nav a {
+    display: flex;
+    min-height: 52px;
+    padding-inline: var(--space-sm);
+    border-radius: var(--radius-small);
+    color: var(--text);
+  }
+  .site-nav a:hover { background: var(--pale-green); text-decoration: none; }
   .site-nav a[aria-current="page"] {
     background: var(--pale-green);
     color: var(--primary-text);
